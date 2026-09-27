@@ -36,7 +36,7 @@ The project analyses fleet fuel consumption and vehicle efficiency for the perio
 
 ## Dashboard
 
-![Fleet Fuel & Efficiency Dashboard](screenshots/dashboard.png)
+![Fleet Fuel & Efficiency Dashboard](Screenshotsdashboard.png)
 
 The dashboard includes:
 
