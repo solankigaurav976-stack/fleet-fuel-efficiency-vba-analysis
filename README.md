@@ -5,6 +5,9 @@
 An Excel-based fleet fuel and efficiency analysis project combining data cleaning, KPI analysis, dashboard development and VBA automation.
 
 The project analyses fleet fuel consumption and vehicle efficiency for the period **April 2024 to March 2025**, using fleet fuel-consumption data and UK average diesel prices.
+## Excel VBA Workbook
+
+[Download the Excel VBA Fleet Fuel & Efficiency Analysis](Fleet_Fuel_Efficiency_Analysis.xlsm)
 
 ## Key Objectives
 
