@@ -131,6 +131,26 @@ The analysis should therefore be interpreted as an **estimated cost model**, rat
 - Data visualisation
 - Business KPI analysis
 
+
+## Source Data & References
+
+### Fleet Fuel Consumption Data
+
+**Source:** UK Government / National Data Library  
+**Dataset:** Fleet Vehicles Fuel Consumption  
+**Period:** April 2024 – March 2025
+
+[View and download the original fleet fuel-consumption dataset](https://www.data.gov.uk/dataset/2766ab07-2714-43ea-926b-7cc93ef72aa5/fleet-vehicles-fuel-consumption)
+
+### Diesel Price Data
+
+**Source:** UK Government  
+**Dataset:** Weekly Road Fuel Prices
+
+[View the official UK Government weekly road fuel prices](https://www.gov.uk/government/statistics/weekly-road-fuel-prices)
+
+The analysis uses the average UK diesel pump price for the project period. Fuel expenditure shown in the dashboard is therefore an **estimated fuel cost**, rather than actual supplier invoice expenditure.
+
 ## Project Structure
 
 ```text
